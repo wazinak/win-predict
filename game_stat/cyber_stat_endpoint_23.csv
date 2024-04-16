@@ -1,0 +1,413 @@
+,team,data,match,opponent,map_map,result,w_l
+0,Endpoint,16/12/23,Intel Monsters Reloaded 2023,Eternal Fire Academy,Overpass,13 - 4,W
+1,Endpoint,09/12/23,ESEA Advanced Season 47 Europe,RUSH B,Ancient,11 - 13,L
+2,Endpoint,07/12/23,ESEA Advanced Season 47 Europe,BIG Academy,Anubis,7 - 13,L
+3,Endpoint,06/12/23,ESEA Advanced Season 47 Europe,MOUZ NXT,Inferno,13 - 8,W
+4,Endpoint,05/12/23,ESEA Advanced Season 47 Europe,ThunderFlash,Ancient,13 - 3,W
+5,Endpoint,30/11/23,European Pro League Season 12,GODSENT,Ancient,6 - 13,L
+6,Endpoint,21/11/23,LEON TEAMPLAY Season 2,PERA,Anubis,4 - 13,L
+7,Endpoint,14/11/23,CCT 2023 Online Finals 4,Legacy,Ancient,6 - 13,L
+8,Endpoint,12/11/23,CCT 2023 Online Finals 4,Preasy,Inferno,5 - 13,L
+9,Endpoint,24/10/23,CCT North Europe Series 8,Anonymo,Overpass,11 - 13,L
+10,Endpoint,29/09/23,ESEA Advanced Season 46 Europe,MOUZ NXT,Ancient,8 - 16,L
+11,Endpoint,25/09/23,ESEA Advanced Season 46 Europe,Anonymo,Ancient,16 - 14,W
+12,Endpoint,20/09/23,CCT North Europe Series 8,Sprout,Anubis,15 - 19,L
+13,Endpoint,16/09/23,Thunderpick World Championship 2023 Europe Series 2,MIBR,Mirage,8 - 16,L
+14,Endpoint,09/09/23,RES Western European Masters Fall 2023 - BLAST Premier Qualifier,Into the Breach,Mirage,17 - 19,L
+15,Endpoint,08/09/23,ESL Premiership Autumn 2023,RAPTORS EC,Inferno,13 - 16,L
+16,Endpoint,07/09/23,ESL Premiership Autumn 2023,Overpowered,Vertigo,16 - 0,W
+17,Endpoint,24/08/23,CCT North Europe Series 7,BIG,Mirage,16 - 19,L
+18,Endpoint,19/08/23,CCT North Europe Series 7,B8,Mirage,12 - 16,L
+19,Endpoint,15/08/23,CCT Central Europe Series 7,Into the Breach,Mirage,17 - 19,L
+20,Endpoint,08/08/23,CCT Central Europe Series 7,EYEBALLERS,Ancient,16 - 8,W
+21,Endpoint,03/08/23,CCT Central Europe Series 7,Sampi,Anubis,16 - 10,W
+22,Endpoint,01/08/23,CCT Central Europe Series 7,MASONIC,Overpass,16 - 4,W
+23,Endpoint,11/07/23,Gamers8 2023 Europe Open Qualifier 2,ex-HYDRA,Vertigo,8 - 16,L
+24,Endpoint,10/06/23,CCT North Europe Series 5,MOUZ NXT,Ancient,7 - 16,L
+25,Endpoint,09/06/23,ESL Challenger League Season 45 Europe Relegation,9 Pandas,Ancient,16 - 13,W
+26,Endpoint,08/06/23,ESL Challenger League Season 45 Europe Relegation,Aurora,Mirage,13 - 16,L
+27,Endpoint,07/06/23,CCT North Europe Series 5,ex-Copenhagen Flames,Ancient,16 - 10,W
+28,Endpoint,03/06/23,CCT North Europe Series 5,Nexus,Ancient,16 - 12,W
+29,Endpoint,01/06/23,CCT North Europe Series 5,Anonymo,Ancient,16 - 13,W
+30,Endpoint,29/05/23,CCT North Europe Series 5,MASONIC,Inferno,16 - 9,W
+31,Endpoint,27/05/23,CCT 2023 Online Finals 1,Aurora,Ancient,16 - 13,W
+32,Endpoint,25/05/23,CCT South Europe Series 4,Eternal Fire,Anubis,8 - 16,L
+33,Endpoint,24/05/23,CCT 2023 Online Finals 1,Astralis Talent,Anubis,16 - 12,W
+34,Endpoint,16/05/23,ESL Challenger League Season 45 Europe,FORZE,Ancient,11 - 16,L
+35,Endpoint,30/04/23,CCT South Europe Series 4,Copenhagen Flames,Vertigo,16 - 11,W
+36,Endpoint,27/04/23,CCT West Europe Series 3,Zero Tenacity,Mirage,16 - 12,W
+37,Endpoint,25/04/23,CCT West Europe Series 3,EYEBALLERS,Overpass,12 - 16,L
+38,Endpoint,23/04/23,CCT West Europe Series 3,Sangal,Ancient,16 - 14,W
+39,Endpoint,21/04/23,CCT West Europe Series 3,Nakama,Inferno,16 - 8,W
+40,Endpoint,31/03/23,CCT Central Europe Series 5,Spirit Academy,Mirage,13 - 16,L
+41,Endpoint,29/03/23,CCT Central Europe Series 5,iNation,Overpass,16 - 11,W
+42,Endpoint,23/03/23,CCT West Europe Series 2,Apeks,Inferno,9 - 16,L
+43,Endpoint,21/03/23,ESL Challenger League Season 44 Europe,SAW,Vertigo,11 - 16,L
+44,Endpoint,20/03/23,CCT West Europe Series 2,500,Overpass,16 - 10,W
+45,Endpoint,16/03/23,CCT West Europe Series 2,AGO,Mirage,16 - 13,W
+46,Endpoint,14/03/23,CCT West Europe Series 2,Into the Breach,Mirage,11 - 16,L
+47,Endpoint,09/03/23,CCT West Europe Series 2,Young Ninjas,Mirage,16 - 8,W
+48,Endpoint,07/03/23,ESL Challenger League Season 44 Europe,1WIN,Mirage,12 - 16,L
+49,Endpoint,06/03/23,CCT North Europe Series 4,Let us cook,Vertigo,11 - 16,L
+50,Endpoint,04/03/23,RES Western European Masters Spring 2023 - BLAST Premier Qualifier,Into the Bin,Inferno,16 - 10,W
+51,Endpoint,04/03/23,RES Western European Masters Spring 2023 - BLAST Premier Qualifier,Into the Bin,Mirage,16 - 10,W
+52,Endpoint,02/03/23,Elisa Invitational Winter 2023,Illuminar,Anubis,6 - 16,L
+53,Endpoint,27/02/23,Elisa Invitational Winter 2023,IKLA,Mirage,16 - 13,W
+54,Endpoint,22/02/23,European Development Championship 7,Illuminar,Mirage,16 - 3,W
+55,Endpoint,20/02/23,BetBoom Playlist Urbanistic 2023,Sangal,Ancient,1 - 16,L
+56,Endpoint,10/02/23,CCT West Europe Series 1,los kogutos,Ancient,16 - 10,W
+57,Endpoint,08/02/23,ESL Challenger League Season 44 Europe,LDLC,Inferno,16 - 10,W
+58,Endpoint,03/02/23,CCT North Europe Series 3,Aurora,Inferno,13 - 16,L
+59,Endpoint,20/01/23,ESL Pro League Season 17 Conference Europe,Sprout,Inferno,16 - 12,W
+60,Endpoint,18/01/23,ESL Pro League Season 17 Conference Europe,Genk,Inferno,16 - 13,W
+61,Endpoint,16/01/23,ESL Pro League Season 17 Conference Europe,Case,Vertigo,16 - 6,W
+62,Endpoint,16/12/23,Intel Monsters Reloaded 2023,Eternal Fire Academy,Overpass,13 - 4,W
+63,Endpoint,16/12/23,Intel Monsters Reloaded 2023,Eternal Fire Academy,Inferno,13 - 6,W
+64,Endpoint,16/12/23,Intel Monsters Reloaded 2023,Eternal Fire Academy,Mirage,13 - 1,W
+65,Endpoint,09/12/23,ESEA Advanced Season 47 Europe,RUSH B,Ancient,11 - 13,L
+66,Endpoint,09/12/23,ESEA Advanced Season 47 Europe,RUSH B,Anubis,7 - 13,L
+67,Endpoint,07/12/23,ESEA Advanced Season 47 Europe,BIG Academy,Anubis,7 - 13,L
+68,Endpoint,07/12/23,ESEA Advanced Season 47 Europe,BIG Academy,Ancient,5 - 13,L
+69,Endpoint,06/12/23,ESEA Advanced Season 47 Europe,MOUZ NXT,Inferno,13 - 8,W
+70,Endpoint,06/12/23,ESEA Advanced Season 47 Europe,MOUZ NXT,Ancient,13 - 4,W
+71,Endpoint,06/12/23,ESEA Advanced Season 47 Europe,MOUZ NXT,Anubis,5 - 13,L
+72,Endpoint,05/12/23,ESEA Advanced Season 47 Europe,ThunderFlash,Ancient,13 - 3,W
+73,Endpoint,05/12/23,ESEA Advanced Season 47 Europe,ThunderFlash,Inferno,13 - 7,W
+74,Endpoint,30/11/23,European Pro League Season 12,GODSENT,Ancient,6 - 13,L
+75,Endpoint,30/11/23,European Pro League Season 12,GODSENT,Mirage,5 - 13,L
+76,Endpoint,21/11/23,LEON TEAMPLAY Season 2,PERA,Anubis,4 - 13,L
+77,Endpoint,21/11/23,LEON TEAMPLAY Season 2,PERA,Ancient,11 - 13,L
+78,Endpoint,14/11/23,CCT 2023 Online Finals 4,Legacy,Ancient,6 - 13,L
+79,Endpoint,14/11/23,CCT 2023 Online Finals 4,Legacy,Inferno,6 - 13,L
+80,Endpoint,12/11/23,CCT 2023 Online Finals 4,Preasy,Inferno,5 - 13,L
+81,Endpoint,12/11/23,CCT 2023 Online Finals 4,Preasy,Ancient,1 - 13,L
+82,Endpoint,12/11/23,CCT 2023 Online Finals 4,Preasy,Overpass,13 - 10,W
+83,Endpoint,24/10/23,CCT North Europe Series 8,Anonymo,Overpass,11 - 13,L
+84,Endpoint,24/10/23,CCT North Europe Series 8,Anonymo,Inferno,4 - 13,L
+85,Endpoint,29/09/23,ESEA Advanced Season 46 Europe,MOUZ NXT,Ancient,8 - 16,L
+86,Endpoint,29/09/23,ESEA Advanced Season 46 Europe,MOUZ NXT,Vertigo,2 - 16,L
+87,Endpoint,25/09/23,ESEA Advanced Season 46 Europe,Anonymo,Ancient,16 - 14,W
+88,Endpoint,25/09/23,ESEA Advanced Season 46 Europe,Anonymo,Overpass,8 - 16,L
+89,Endpoint,25/09/23,ESEA Advanced Season 46 Europe,Anonymo,Inferno,16 - 13,W
+90,Endpoint,20/09/23,CCT North Europe Series 8,Sprout,Anubis,15 - 19,L
+91,Endpoint,20/09/23,CCT North Europe Series 8,Sprout,Vertigo,17 - 19,L
+92,Endpoint,20/09/23,CCT North Europe Series 8,Sprout,Inferno,16 - 14,W
+93,Endpoint,16/09/23,Thunderpick World Championship 2023 Europe Series 2,MIBR,Mirage,8 - 16,L
+94,Endpoint,16/09/23,Thunderpick World Championship 2023 Europe Series 2,MIBR,Vertigo,16 - 11,W
+95,Endpoint,16/09/23,Thunderpick World Championship 2023 Europe Series 2,MIBR,Anubis,14 - 16,L
+96,Endpoint,09/09/23,RES Western European Masters Fall 2023 - BLAST Premier Qualifier,Into the Breach,Mirage,17 - 19,L
+97,Endpoint,08/09/23,ESL Premiership Autumn 2023,RAPTORS EC,Inferno,13 - 16,L
+98,Endpoint,08/09/23,ESL Premiership Autumn 2023,RAPTORS EC,Vertigo,14 - 16,L
+99,Endpoint,08/09/23,ESL Premiership Autumn 2023,RAPTORS EC,Ancient,16 - 6,W
+100,Endpoint,07/09/23,ESL Premiership Autumn 2023,Overpowered,Vertigo,16 - 0,W
+101,Endpoint,07/09/23,ESL Premiership Autumn 2023,Overpowered,Inferno,16 - 0,W
+102,Endpoint,24/08/23,CCT North Europe Series 7,BIG,Mirage,16 - 19,L
+103,Endpoint,24/08/23,CCT North Europe Series 7,BIG,Ancient,11 - 16,L
+104,Endpoint,24/08/23,CCT North Europe Series 7,BIG,Vertigo,19 - 16,W
+105,Endpoint,19/08/23,CCT North Europe Series 7,B8,Mirage,12 - 16,L
+106,Endpoint,19/08/23,CCT North Europe Series 7,B8,Vertigo,16 - 11,W
+107,Endpoint,19/08/23,CCT North Europe Series 7,B8,Anubis,3 - 16,L
+108,Endpoint,15/08/23,CCT Central Europe Series 7,Into the Breach,Mirage,17 - 19,L
+109,Endpoint,15/08/23,CCT Central Europe Series 7,Into the Breach,Ancient,9 - 16,L
+110,Endpoint,08/08/23,CCT Central Europe Series 7,EYEBALLERS,Ancient,16 - 8,W
+111,Endpoint,08/08/23,CCT Central Europe Series 7,EYEBALLERS,Inferno,20 - 22,L
+112,Endpoint,08/08/23,CCT Central Europe Series 7,EYEBALLERS,Vertigo,16 - 14,W
+113,Endpoint,03/08/23,CCT Central Europe Series 7,Sampi,Anubis,16 - 10,W
+114,Endpoint,03/08/23,CCT Central Europe Series 7,Sampi,Ancient,16 - 3,W
+115,Endpoint,01/08/23,CCT Central Europe Series 7,MASONIC,Overpass,16 - 4,W
+116,Endpoint,01/08/23,CCT Central Europe Series 7,MASONIC,Anubis,16 - 14,W
+117,Endpoint,11/07/23,Gamers8 2023 Europe Open Qualifier 2,ex-HYDRA,Vertigo,8 - 16,L
+118,Endpoint,10/06/23,CCT North Europe Series 5,MOUZ NXT,Ancient,7 - 16,L
+119,Endpoint,10/06/23,CCT North Europe Series 5,MOUZ NXT,Vertigo,10 - 16,L
+120,Endpoint,10/06/23,CCT North Europe Series 5,MOUZ NXT,Mirage,16 - 13,W
+121,Endpoint,09/06/23,ESL Challenger League Season 45 Europe Relegation,9 Pandas,Ancient,16 - 13,W
+122,Endpoint,09/06/23,ESL Challenger League Season 45 Europe Relegation,9 Pandas,Mirage,13 - 16,L
+123,Endpoint,09/06/23,ESL Challenger League Season 45 Europe Relegation,9 Pandas,Overpass,16 - 11,W
+124,Endpoint,08/06/23,ESL Challenger League Season 45 Europe Relegation,Aurora,Mirage,13 - 16,L
+125,Endpoint,08/06/23,ESL Challenger League Season 45 Europe Relegation,Aurora,Ancient,14 - 16,L
+126,Endpoint,07/06/23,CCT North Europe Series 5,ex-Copenhagen Flames,Ancient,16 - 10,W
+127,Endpoint,07/06/23,CCT North Europe Series 5,ex-Copenhagen Flames,Inferno,14 - 16,L
+128,Endpoint,07/06/23,CCT North Europe Series 5,ex-Copenhagen Flames,Anubis,16 - 8,W
+129,Endpoint,03/06/23,CCT North Europe Series 5,Nexus,Ancient,16 - 12,W
+130,Endpoint,03/06/23,CCT North Europe Series 5,Nexus,Mirage,16 - 14,W
+131,Endpoint,03/06/23,CCT North Europe Series 5,Nexus,Vertigo,17 - 19,L
+132,Endpoint,01/06/23,CCT North Europe Series 5,Anonymo,Ancient,16 - 13,W
+133,Endpoint,01/06/23,CCT North Europe Series 5,Anonymo,Mirage,16 - 4,W
+134,Endpoint,29/05/23,CCT North Europe Series 5,MASONIC,Inferno,16 - 9,W
+135,Endpoint,29/05/23,CCT North Europe Series 5,MASONIC,Overpass,11 - 16,L
+136,Endpoint,29/05/23,CCT North Europe Series 5,MASONIC,Mirage,16 - 10,W
+137,Endpoint,27/05/23,CCT 2023 Online Finals 1,Aurora,Ancient,16 - 13,W
+138,Endpoint,27/05/23,CCT 2023 Online Finals 1,Aurora,Mirage,16 - 7,W
+139,Endpoint,25/05/23,CCT South Europe Series 4,Eternal Fire,Anubis,8 - 16,L
+140,Endpoint,25/05/23,CCT South Europe Series 4,Eternal Fire,Overpass,6 - 16,L
+141,Endpoint,24/05/23,CCT 2023 Online Finals 1,Astralis Talent,Anubis,16 - 12,W
+142,Endpoint,24/05/23,CCT 2023 Online Finals 1,Astralis Talent,Overpass,14 - 16,L
+143,Endpoint,24/05/23,CCT 2023 Online Finals 1,Astralis Talent,Mirage,19 - 17,W
+144,Endpoint,16/05/23,ESL Challenger League Season 45 Europe,FORZE,Ancient,11 - 16,L
+145,Endpoint,16/05/23,ESL Challenger League Season 45 Europe,FORZE,Mirage,16 - 19,L
+146,Endpoint,30/04/23,CCT South Europe Series 4,Copenhagen Flames,Vertigo,16 - 11,W
+147,Endpoint,30/04/23,CCT South Europe Series 4,Copenhagen Flames,Inferno,16 - 10,W
+148,Endpoint,30/04/23,CCT South Europe Series 4,Copenhagen Flames,Anubis,11 - 16,L
+149,Endpoint,27/04/23,CCT West Europe Series 3,Zero Tenacity,Mirage,16 - 12,W
+150,Endpoint,27/04/23,CCT West Europe Series 3,Zero Tenacity,Inferno,25 - 21,W
+151,Endpoint,25/04/23,CCT West Europe Series 3,EYEBALLERS,Overpass,12 - 16,L
+152,Endpoint,25/04/23,CCT West Europe Series 3,EYEBALLERS,Inferno,10 - 16,L
+153,Endpoint,25/04/23,CCT West Europe Series 3,EYEBALLERS,Mirage,16 - 9,W
+154,Endpoint,23/04/23,CCT West Europe Series 3,Sangal,Ancient,16 - 14,W
+155,Endpoint,23/04/23,CCT West Europe Series 3,Sangal,Mirage,16 - 8,W
+156,Endpoint,21/04/23,CCT West Europe Series 3,Nakama,Inferno,16 - 8,W
+157,Endpoint,21/04/23,CCT West Europe Series 3,Nakama,Mirage,16 - 6,W
+158,Endpoint,31/03/23,CCT Central Europe Series 5,Spirit Academy,Mirage,13 - 16,L
+159,Endpoint,31/03/23,CCT Central Europe Series 5,Spirit Academy,Inferno,16 - 8,W
+160,Endpoint,31/03/23,CCT Central Europe Series 5,Spirit Academy,Vertigo,8 - 16,L
+161,Endpoint,29/03/23,CCT Central Europe Series 5,iNation,Overpass,16 - 11,W
+162,Endpoint,29/03/23,CCT Central Europe Series 5,iNation,Anubis,16 - 11,W
+163,Endpoint,23/03/23,CCT West Europe Series 2,Apeks,Inferno,9 - 16,L
+164,Endpoint,23/03/23,CCT West Europe Series 2,Apeks,Ancient,7 - 16,L
+165,Endpoint,21/03/23,ESL Challenger League Season 44 Europe,SAW,Vertigo,11 - 16,L
+166,Endpoint,21/03/23,ESL Challenger League Season 44 Europe,SAW,Overpass,11 - 16,L
+167,Endpoint,20/03/23,CCT West Europe Series 2,500,Overpass,16 - 10,W
+168,Endpoint,20/03/23,CCT West Europe Series 2,500,Mirage,16 - 11,W
+169,Endpoint,20/03/23,CCT West Europe Series 2,500,Ancient,9 - 16,L
+170,Endpoint,16/03/23,CCT West Europe Series 2,AGO,Mirage,16 - 13,W
+171,Endpoint,16/03/23,CCT West Europe Series 2,AGO,Vertigo,11 - 16,L
+172,Endpoint,16/03/23,CCT West Europe Series 2,AGO,Overpass,19 - 15,W
+173,Endpoint,14/03/23,CCT West Europe Series 2,Into the Breach,Mirage,11 - 16,L
+174,Endpoint,14/03/23,CCT West Europe Series 2,Into the Breach,Vertigo,12 - 16,L
+175,Endpoint,09/03/23,CCT West Europe Series 2,Young Ninjas,Mirage,16 - 8,W
+176,Endpoint,09/03/23,CCT West Europe Series 2,Young Ninjas,Inferno,14 - 16,L
+177,Endpoint,09/03/23,CCT West Europe Series 2,Young Ninjas,Vertigo,16 - 12,W
+178,Endpoint,07/03/23,ESL Challenger League Season 44 Europe,1WIN,Mirage,12 - 16,L
+179,Endpoint,07/03/23,ESL Challenger League Season 44 Europe,1WIN,Nuke,8 - 16,L
+180,Endpoint,06/03/23,CCT North Europe Series 4,Let us cook,Vertigo,11 - 16,L
+181,Endpoint,06/03/23,CCT North Europe Series 4,Let us cook,Mirage,16 - 11,W
+182,Endpoint,04/03/23,RES Western European Masters Spring 2023 - BLAST Premier Qualifier,Into the Bin,Inferno,16 - 10,W
+183,Endpoint,04/03/23,RES Western European Masters Spring 2023 - BLAST Premier Qualifier,Into the Bin,Mirage,16 - 10,W
+184,Endpoint,02/03/23,Elisa Invitational Winter 2023,Illuminar,Anubis,6 - 16,L
+185,Endpoint,02/03/23,Elisa Invitational Winter 2023,Illuminar,Mirage,9 - 16,L
+186,Endpoint,27/02/23,Elisa Invitational Winter 2023,IKLA,Mirage,16 - 13,W
+187,Endpoint,27/02/23,Elisa Invitational Winter 2023,IKLA,Inferno,16 - 13,W
+188,Endpoint,22/02/23,European Development Championship 7,Illuminar,Mirage,16 - 3,W
+189,Endpoint,22/02/23,European Development Championship 7,Illuminar,Anubis,16 - 7,W
+190,Endpoint,20/02/23,BetBoom Playlist Urbanistic 2023,Sangal,Ancient,1 - 16,L
+191,Endpoint,20/02/23,BetBoom Playlist Urbanistic 2023,Sangal,Mirage,11 - 16,L
+192,Endpoint,10/02/23,CCT West Europe Series 1,los kogutos,Ancient,16 - 10,W
+193,Endpoint,10/02/23,CCT West Europe Series 1,los kogutos,Vertigo,16 - 12,W
+194,Endpoint,08/02/23,ESL Challenger League Season 44 Europe,LDLC,Inferno,16 - 10,W
+195,Endpoint,08/02/23,ESL Challenger League Season 44 Europe,LDLC,Anubis,19 - 17,W
+196,Endpoint,03/02/23,CCT North Europe Series 3,Aurora,Inferno,13 - 16,L
+197,Endpoint,03/02/23,CCT North Europe Series 3,Aurora,Anubis,6 - 16,L
+198,Endpoint,20/01/23,ESL Pro League Season 17 Conference Europe,Sprout,Inferno,16 - 12,W
+199,Endpoint,20/01/23,ESL Pro League Season 17 Conference Europe,Sprout,Overpass,16 - 8,W
+200,Endpoint,20/01/23,ESL Pro League Season 17 Conference Europe,Sprout,Vertigo,15 - 19,L
+201,Endpoint,18/01/23,ESL Pro League Season 17 Conference Europe,Genk,Inferno,16 - 13,W
+202,Endpoint,18/01/23,ESL Pro League Season 17 Conference Europe,Genk,Vertigo,16 - 8,W
+203,Endpoint,18/01/23,ESL Pro League Season 17 Conference Europe,Genk,Nuke,10 - 16,L
+204,Endpoint,16/01/23,ESL Pro League Season 17 Conference Europe,Case,Vertigo,16 - 6,W
+205,Endpoint,16/01/23,ESL Pro League Season 17 Conference Europe,Case,Overpass,16 - 4,W
+206,Endpoint,15/12/23,Intel Monsters Reloaded 2023,Divine Vendetta,Vertigo,13 - 8,W
+207,Endpoint,09/12/23,European Pro League Season 12,Preasy,Ancient,2 - 13,L
+208,Endpoint,07/12/23,European Pro League Season 12,sYnck,Mirage,13 - 4,W
+209,Endpoint,06/12/23,European Pro League Season 12,Sprout,Ancient,8 - 13,L
+210,Endpoint,04/12/23,European Pro League Season 12,The Witchers,Overpass,13 - 10,W
+211,Endpoint,26/11/23,European Pro League Season 12,Into the Breach,Anubis,13 - 5,W
+212,Endpoint,21/11/23,LEON TEAMPLAY Season 2,paiN,Anubis,13 - 7,W
+213,Endpoint,13/11/23,LEON TEAMPLAY Season 2,Entropiq,Inferno,13 - 11,W
+214,Endpoint,12/11/23,LEON TEAMPLAY Season 2,Legacy,Overpass,13 - 8,W
+215,Endpoint,22/10/23,CCT North Europe Series 8,Bad News Eagles,Inferno,13 - 8,W
+216,Endpoint,27/09/23,ESEA Advanced Season 46 Europe,Singularity,Ancient,13 - 16,L
+217,Endpoint,22/09/23,CCT North Europe Series 8,GenOne,Ancient,16 - 13,W
+218,Endpoint,18/09/23,CCT North Europe Series 8,B8,Anubis,16 - 8,W
+219,Endpoint,13/09/23,Thunderpick World Championship 2023 Europe Series 2,9INE,Overpass,16 - 8,W
+220,Endpoint,09/09/23,Thunderpick World Championship 2023 Europe Series 2,00NATION,Ancient,22 - 19,W
+221,Endpoint,08/09/23,ESL Premiership Autumn 2023,ex-Coalesce,Vertigo,16 - 9,W
+222,Endpoint,06/09/23,Thunderpick World Championship 2023 Europe Series 2,EYEBALLERS,Vertigo,16 - 5,W
+223,Endpoint,21/08/23,CCT North Europe Series 7,los kogutos,Ancient,16 - 11,W
+224,Endpoint,17/08/23,CCT North Europe Series 7,Nexus,Mirage,16 - 13,W
+225,Endpoint,14/08/23,CCT North Europe Series 7,ThunderFlash,Mirage,16 - 14,W
+226,Endpoint,07/08/23,CCT Central Europe Series 7,RUBIK,Ancient,11 - 16,L
+227,Endpoint,03/08/23,Thunderpick World Championship 2023 Europe Series 1,500,Ancient,26 - 28,L
+228,Endpoint,30/07/23,Thunderpick World Championship 2023 Europe Series 1,PGE Turow,Vertigo,16 - 11,W
+229,Endpoint,11/07/23,Gamers8 2023 Europe Open Qualifier 2,NOVA,Ancient,16 - 13,W
+230,Endpoint,09/06/23,ESL Challenger League Season 45 Europe Relegation,The Prodigies,Overpass,2 - 16,L
+231,Endpoint,09/06/23,CCT North Europe Series 5,Anonymo,Mirage,16 - 12,W
+232,Endpoint,08/06/23,ESL Challenger League Season 45 Europe Relegation,Websterz,Mirage,25 - 23,W
+233,Endpoint,04/06/23,ESL Premiership Spring 2023,Into the Breach,Inferno,11 - 16,L
+234,Endpoint,03/06/23,ESL Premiership Spring 2023,Coalesce,Inferno,16 - 10,W
+235,Endpoint,29/05/23,ESL Premiership Spring 2023,sakana123,Inferno,16 - 6,W
+236,Endpoint,28/05/23,CCT 2023 Online Finals 1,BIG,Anubis,14 - 16,L
+237,Endpoint,26/05/23,CCT 2023 Online Finals 1,Sharks,Anubis,5 - 16,L
+238,Endpoint,24/05/23,CCT South Europe Series 4,500,Overpass,16 - 11,W
+239,Endpoint,23/05/23,CCT South Europe Series 4,Bad News Eagles,Vertigo,16 - 14,W
+240,Endpoint,01/05/23,CCT West Europe Series 3,Spirit Academy,Overpass,6 - 16,L
+241,Endpoint,28/04/23,CCT South Europe Series 4,BLINK,Mirage,16 - 14,W
+242,Endpoint,26/04/23,CCT South Europe Series 4,KS,Vertigo,16 - 12,W
+243,Endpoint,24/04/23,CCT South Europe Series 4,Iron Branch,Inferno,5 - 16,L
+244,Endpoint,22/04/23,CCT South Europe Series 4,Entropiq,Ancient,17 - 19,L
+245,Endpoint,14/04/23,ESL Challenger League Season 45 Europe,BIG Academy,Mirage,8 - 16,L
+246,Endpoint,30/03/23,CCT Central Europe Series 5,Young Ninjas,Inferno,16 - 7,W
+247,Endpoint,23/03/23,CCT Central Europe Series 5,PROSPECTS,Vertigo,19 - 15,W
+248,Endpoint,22/03/23,CCT West Europe Series 2,iNation,Inferno,16 - 13,W
+249,Endpoint,21/03/23,CCT Central Europe Series 5,Young Ninjas,Inferno,16 - 1,W
+250,Endpoint,18/03/23,CCT Central Europe Series 5,ECSTATIC,Ancient,16 - 9,W
+251,Endpoint,15/03/23,BetBoom Playlist Urbanistic 2023,Apeks,Mirage,10 - 16,L
+252,Endpoint,12/03/23,CCT West Europe Series 2,Nexus,Vertigo,22 - 19,W
+253,Endpoint,08/03/23,BetBoom Playlist Urbanistic 2023,Bad News Eagles,Inferno,12 - 16,L
+254,Endpoint,06/03/23,BetBoom Playlist Urbanistic 2023,ATK,Ancient,16 - 8,W
+255,Endpoint,05/03/23,RES Western European Masters Spring 2023 - BLAST Premier Qualifier,9INE,Vertigo,11 - 16,L
+256,Endpoint,04/03/23,RES Western European Masters Spring 2023 - BLAST Premier Qualifier,GamerLegion,Inferno,8 - 16,L
+257,Endpoint,03/03/23,CCT North Europe Series 4,MOUZ NXT,Ancient,8 - 16,L
+258,Endpoint,02/03/23,CCT North Europe Series 4,SINNERS,Vertigo,7 - 16,L
+259,Endpoint,26/02/23,European Development Championship 7,GamerLegion,Vertigo,8 - 16,L
+260,Endpoint,22/02/23,Elisa Invitational Winter 2023,9INE,Vertigo,10 - 16,L
+261,Endpoint,12/02/23,CCT West Europe Series 1,BLUEJAYS,Anubis,8 - 16,L
+262,Endpoint,09/02/23,Elisa Invitational Winter 2023,BIG Academy,Ancient,16 - 5,W
+263,Endpoint,06/02/23,CCT West Europe Series 1,Coalesce,Vertigo,18 - 22,L
+264,Endpoint,21/01/23,ESL Pro League Season 17 Conference Europe,FORZE,Mirage,13 - 16,L
+265,Endpoint,19/01/23,ESL Pro League Season 17 Conference Europe,9INE,Ancient,16 - 3,W
+266,Endpoint,17/01/23,ESL Pro League Season 17 Conference Europe,SAW,Vertigo,13 - 16,L
+267,Endpoint,15/12/23,Intel Monsters Reloaded 2023,Divine Vendetta,Vertigo,13 - 8,W
+268,Endpoint,15/12/23,Intel Monsters Reloaded 2023,Divine Vendetta,Overpass,13 - 10,W
+269,Endpoint,15/12/23,Intel Monsters Reloaded 2023,Divine Vendetta,Mirage,10 - 13,L
+270,Endpoint,09/12/23,European Pro League Season 12,Preasy,Ancient,2 - 13,L
+271,Endpoint,09/12/23,European Pro League Season 12,Preasy,Anubis,8 - 13,L
+272,Endpoint,09/12/23,European Pro League Season 12,Preasy,Vertigo,19 - 16,W
+273,Endpoint,07/12/23,European Pro League Season 12,sYnck,Mirage,13 - 4,W
+274,Endpoint,07/12/23,European Pro League Season 12,sYnck,Ancient,13 - 9,W
+275,Endpoint,06/12/23,European Pro League Season 12,Sprout,Ancient,8 - 13,L
+276,Endpoint,06/12/23,European Pro League Season 12,Sprout,Mirage,2 - 13,L
+277,Endpoint,04/12/23,European Pro League Season 12,The Witchers,Overpass,13 - 10,W
+278,Endpoint,04/12/23,European Pro League Season 12,The Witchers,Mirage,13 - 7,W
+279,Endpoint,04/12/23,European Pro League Season 12,The Witchers,Inferno,6 - 13,L
+280,Endpoint,26/11/23,European Pro League Season 12,Into the Breach,Anubis,13 - 5,W
+281,Endpoint,26/11/23,European Pro League Season 12,Into the Breach,Ancient,13 - 5,W
+282,Endpoint,21/11/23,LEON TEAMPLAY Season 2,paiN,Anubis,13 - 7,W
+283,Endpoint,21/11/23,LEON TEAMPLAY Season 2,paiN,Inferno,13 - 6,W
+284,Endpoint,13/11/23,LEON TEAMPLAY Season 2,Entropiq,Inferno,13 - 11,W
+285,Endpoint,13/11/23,LEON TEAMPLAY Season 2,Entropiq,Mirage,13 - 7,W
+286,Endpoint,13/11/23,LEON TEAMPLAY Season 2,Entropiq,Ancient,14 - 16,L
+287,Endpoint,12/11/23,LEON TEAMPLAY Season 2,Legacy,Overpass,13 - 8,W
+288,Endpoint,22/10/23,CCT North Europe Series 8,Bad News Eagles,Inferno,13 - 8,W
+289,Endpoint,22/10/23,CCT North Europe Series 8,Bad News Eagles,Mirage,13 - 2,W
+290,Endpoint,27/09/23,ESEA Advanced Season 46 Europe,Singularity,Ancient,13 - 16,L
+291,Endpoint,27/09/23,ESEA Advanced Season 46 Europe,Singularity,Vertigo,14 - 16,L
+292,Endpoint,27/09/23,ESEA Advanced Season 46 Europe,Singularity,Mirage,31 - 27,W
+293,Endpoint,22/09/23,CCT North Europe Series 8,GenOne,Ancient,16 - 13,W
+294,Endpoint,22/09/23,CCT North Europe Series 8,GenOne,Anubis,16 - 14,W
+295,Endpoint,18/09/23,CCT North Europe Series 8,B8,Anubis,16 - 8,W
+296,Endpoint,18/09/23,CCT North Europe Series 8,B8,Inferno,16 - 14,W
+297,Endpoint,13/09/23,Thunderpick World Championship 2023 Europe Series 2,9INE,Overpass,16 - 8,W
+298,Endpoint,13/09/23,Thunderpick World Championship 2023 Europe Series 2,9INE,Ancient,16 - 8,W
+299,Endpoint,09/09/23,Thunderpick World Championship 2023 Europe Series 2,00NATION,Ancient,22 - 19,W
+300,Endpoint,09/09/23,Thunderpick World Championship 2023 Europe Series 2,00NATION,Mirage,16 - 14,W
+301,Endpoint,09/09/23,Thunderpick World Championship 2023 Europe Series 2,00NATION,Anubis,14 - 16,L
+302,Endpoint,08/09/23,ESL Premiership Autumn 2023,ex-Coalesce,Vertigo,16 - 9,W
+303,Endpoint,08/09/23,ESL Premiership Autumn 2023,ex-Coalesce,Inferno,16 - 2,W
+304,Endpoint,06/09/23,Thunderpick World Championship 2023 Europe Series 2,EYEBALLERS,Vertigo,16 - 5,W
+305,Endpoint,06/09/23,Thunderpick World Championship 2023 Europe Series 2,EYEBALLERS,Ancient,16 - 7,W
+306,Endpoint,21/08/23,CCT North Europe Series 7,los kogutos,Ancient,16 - 11,W
+307,Endpoint,21/08/23,CCT North Europe Series 7,los kogutos,Vertigo,16 - 9,W
+308,Endpoint,17/08/23,CCT North Europe Series 7,Nexus,Mirage,16 - 13,W
+309,Endpoint,17/08/23,CCT North Europe Series 7,Nexus,Ancient,16 - 9,W
+310,Endpoint,14/08/23,CCT North Europe Series 7,ThunderFlash,Mirage,16 - 14,W
+311,Endpoint,14/08/23,CCT North Europe Series 7,ThunderFlash,Inferno,16 - 2,W
+312,Endpoint,07/08/23,CCT Central Europe Series 7,RUBIK,Ancient,11 - 16,L
+313,Endpoint,07/08/23,CCT Central Europe Series 7,RUBIK,Overpass,16 - 14,W
+314,Endpoint,07/08/23,CCT Central Europe Series 7,RUBIK,Inferno,7 - 16,L
+315,Endpoint,03/08/23,Thunderpick World Championship 2023 Europe Series 1,500,Ancient,26 - 28,L
+316,Endpoint,03/08/23,Thunderpick World Championship 2023 Europe Series 1,500,Anubis,10 - 16,L
+317,Endpoint,30/07/23,Thunderpick World Championship 2023 Europe Series 1,PGE Turow,Vertigo,16 - 11,W
+318,Endpoint,30/07/23,Thunderpick World Championship 2023 Europe Series 1,PGE Turow,Anubis,16 - 10,W
+319,Endpoint,11/07/23,Gamers8 2023 Europe Open Qualifier 2,NOVA,Ancient,16 - 13,W
+320,Endpoint,09/06/23,ESL Challenger League Season 45 Europe Relegation,The Prodigies,Overpass,2 - 16,L
+321,Endpoint,09/06/23,ESL Challenger League Season 45 Europe Relegation,The Prodigies,Mirage,8 - 16,L
+322,Endpoint,09/06/23,ESL Challenger League Season 45 Europe Relegation,The Prodigies,Inferno,16 - 13,W
+323,Endpoint,09/06/23,CCT North Europe Series 5,Anonymo,Mirage,16 - 12,W
+324,Endpoint,09/06/23,CCT North Europe Series 5,Anonymo,Ancient,16 - 11,W
+325,Endpoint,08/06/23,ESL Challenger League Season 45 Europe Relegation,Websterz,Mirage,25 - 23,W
+326,Endpoint,08/06/23,ESL Challenger League Season 45 Europe Relegation,Websterz,Inferno,16 - 10,W
+327,Endpoint,04/06/23,ESL Premiership Spring 2023,Into the Breach,Inferno,11 - 16,L
+328,Endpoint,04/06/23,ESL Premiership Spring 2023,Into the Breach,Mirage,16 - 13,W
+329,Endpoint,04/06/23,ESL Premiership Spring 2023,Into the Breach,Anubis,16 - 19,L
+330,Endpoint,04/06/23,ESL Premiership Spring 2023,Into the Breach,Ancient,4 - 16,L
+331,Endpoint,03/06/23,ESL Premiership Spring 2023,Coalesce,Inferno,16 - 10,W
+332,Endpoint,03/06/23,ESL Premiership Spring 2023,Coalesce,Anubis,16 - 11,W
+333,Endpoint,29/05/23,ESL Premiership Spring 2023,sakana123,Inferno,16 - 6,W
+334,Endpoint,29/05/23,ESL Premiership Spring 2023,sakana123,Ancient,16 - 12,W
+335,Endpoint,28/05/23,CCT 2023 Online Finals 1,BIG,Anubis,14 - 16,L
+336,Endpoint,28/05/23,CCT 2023 Online Finals 1,BIG,Mirage,4 - 16,L
+337,Endpoint,26/05/23,CCT 2023 Online Finals 1,Sharks,Anubis,5 - 16,L
+338,Endpoint,26/05/23,CCT 2023 Online Finals 1,Sharks,Ancient,7 - 16,L
+339,Endpoint,26/05/23,CCT 2023 Online Finals 1,Sharks,Mirage,16 - 13,W
+340,Endpoint,24/05/23,CCT South Europe Series 4,500,Overpass,16 - 11,W
+341,Endpoint,24/05/23,CCT South Europe Series 4,500,Mirage,16 - 8,W
+342,Endpoint,24/05/23,CCT South Europe Series 4,500,Ancient,12 - 16,L
+343,Endpoint,23/05/23,CCT South Europe Series 4,Bad News Eagles,Vertigo,16 - 14,W
+344,Endpoint,23/05/23,CCT South Europe Series 4,Bad News Eagles,Ancient,7 - 16,L
+345,Endpoint,23/05/23,CCT South Europe Series 4,Bad News Eagles,Anubis,16 - 14,W
+346,Endpoint,01/05/23,CCT West Europe Series 3,Spirit Academy,Overpass,6 - 16,L
+347,Endpoint,01/05/23,CCT West Europe Series 3,Spirit Academy,Mirage,11 - 16,L
+348,Endpoint,01/05/23,CCT West Europe Series 3,Spirit Academy,Vertigo,16 - 11,W
+349,Endpoint,28/04/23,CCT South Europe Series 4,BLINK,Mirage,16 - 14,W
+350,Endpoint,28/04/23,CCT South Europe Series 4,BLINK,Inferno,16 - 7,W
+351,Endpoint,26/04/23,CCT South Europe Series 4,KS,Vertigo,16 - 12,W
+352,Endpoint,26/04/23,CCT South Europe Series 4,KS,Inferno,15 - 19,L
+353,Endpoint,26/04/23,CCT South Europe Series 4,KS,Mirage,16 - 9,W
+354,Endpoint,24/04/23,CCT South Europe Series 4,Iron Branch,Inferno,5 - 16,L
+355,Endpoint,24/04/23,CCT South Europe Series 4,Iron Branch,Mirage,14 - 16,L
+356,Endpoint,24/04/23,CCT South Europe Series 4,Iron Branch,Anubis,16 - 12,W
+357,Endpoint,22/04/23,CCT South Europe Series 4,Entropiq,Ancient,17 - 19,L
+358,Endpoint,22/04/23,CCT South Europe Series 4,Entropiq,Mirage,5 - 16,L
+359,Endpoint,14/04/23,ESL Challenger League Season 45 Europe,BIG Academy,Mirage,8 - 16,L
+360,Endpoint,14/04/23,ESL Challenger League Season 45 Europe,BIG Academy,Vertigo,12 - 16,L
+361,Endpoint,30/03/23,CCT Central Europe Series 5,Young Ninjas,Inferno,16 - 7,W
+362,Endpoint,30/03/23,CCT Central Europe Series 5,Young Ninjas,Vertigo,16 - 12,W
+363,Endpoint,23/03/23,CCT Central Europe Series 5,PROSPECTS,Vertigo,19 - 15,W
+364,Endpoint,23/03/23,CCT Central Europe Series 5,PROSPECTS,Overpass,14 - 16,L
+365,Endpoint,23/03/23,CCT Central Europe Series 5,PROSPECTS,Inferno,19 - 17,W
+366,Endpoint,22/03/23,CCT West Europe Series 2,iNation,Inferno,16 - 13,W
+367,Endpoint,22/03/23,CCT West Europe Series 2,iNation,Overpass,16 - 13,W
+368,Endpoint,21/03/23,CCT Central Europe Series 5,Young Ninjas,Inferno,16 - 1,W
+369,Endpoint,21/03/23,CCT Central Europe Series 5,Young Ninjas,Mirage,16 - 8,W
+370,Endpoint,18/03/23,CCT Central Europe Series 5,ECSTATIC,Ancient,16 - 9,W
+371,Endpoint,18/03/23,CCT Central Europe Series 5,ECSTATIC,Inferno,19 - 17,W
+372,Endpoint,15/03/23,BetBoom Playlist Urbanistic 2023,Apeks,Mirage,10 - 16,L
+373,Endpoint,15/03/23,BetBoom Playlist Urbanistic 2023,Apeks,Ancient,10 - 16,L
+374,Endpoint,12/03/23,CCT West Europe Series 2,Nexus,Vertigo,22 - 19,W
+375,Endpoint,12/03/23,CCT West Europe Series 2,Nexus,Overpass,16 - 11,W
+376,Endpoint,08/03/23,BetBoom Playlist Urbanistic 2023,Bad News Eagles,Inferno,12 - 16,L
+377,Endpoint,08/03/23,BetBoom Playlist Urbanistic 2023,Bad News Eagles,Overpass,16 - 10,W
+378,Endpoint,08/03/23,BetBoom Playlist Urbanistic 2023,Bad News Eagles,Mirage,9 - 16,L
+379,Endpoint,06/03/23,BetBoom Playlist Urbanistic 2023,ATK,Ancient,16 - 8,W
+380,Endpoint,06/03/23,BetBoom Playlist Urbanistic 2023,ATK,Mirage,14 - 16,L
+381,Endpoint,06/03/23,BetBoom Playlist Urbanistic 2023,ATK,Inferno,16 - 13,W
+382,Endpoint,05/03/23,RES Western European Masters Spring 2023 - BLAST Premier Qualifier,9INE,Vertigo,11 - 16,L
+383,Endpoint,05/03/23,RES Western European Masters Spring 2023 - BLAST Premier Qualifier,9INE,Mirage,8 - 16,L
+384,Endpoint,04/03/23,RES Western European Masters Spring 2023 - BLAST Premier Qualifier,GamerLegion,Inferno,8 - 16,L
+385,Endpoint,03/03/23,CCT North Europe Series 4,MOUZ NXT,Ancient,8 - 16,L
+386,Endpoint,03/03/23,CCT North Europe Series 4,MOUZ NXT,Vertigo,9 - 16,L
+387,Endpoint,03/03/23,CCT North Europe Series 4,MOUZ NXT,Mirage,16 - 13,W
+388,Endpoint,02/03/23,CCT North Europe Series 4,SINNERS,Vertigo,7 - 16,L
+389,Endpoint,02/03/23,CCT North Europe Series 4,SINNERS,Ancient,6 - 16,L
+390,Endpoint,26/02/23,European Development Championship 7,GamerLegion,Vertigo,8 - 16,L
+391,Endpoint,26/02/23,European Development Championship 7,GamerLegion,Mirage,4 - 16,L
+392,Endpoint,22/02/23,Elisa Invitational Winter 2023,9INE,Vertigo,10 - 16,L
+393,Endpoint,22/02/23,Elisa Invitational Winter 2023,9INE,Mirage,7 - 16,L
+394,Endpoint,12/02/23,CCT West Europe Series 1,BLUEJAYS,Anubis,8 - 16,L
+395,Endpoint,12/02/23,CCT West Europe Series 1,BLUEJAYS,Inferno,9 - 16,L
+396,Endpoint,12/02/23,CCT West Europe Series 1,BLUEJAYS,Overpass,16 - 4,W
+397,Endpoint,09/02/23,Elisa Invitational Winter 2023,BIG Academy,Ancient,16 - 5,W
+398,Endpoint,09/02/23,Elisa Invitational Winter 2023,BIG Academy,Mirage,16 - 7,W
+399,Endpoint,09/02/23,Elisa Invitational Winter 2023,BIG Academy,Anubis,4 - 16,L
+400,Endpoint,06/02/23,CCT West Europe Series 1,Coalesce,Vertigo,18 - 22,L
+401,Endpoint,06/02/23,CCT West Europe Series 1,Coalesce,Inferno,6 - 16,L
+402,Endpoint,06/02/23,CCT West Europe Series 1,Coalesce,Mirage,16 - 2,W
+403,Endpoint,21/01/23,ESL Pro League Season 17 Conference Europe,FORZE,Mirage,13 - 16,L
+404,Endpoint,21/01/23,ESL Pro League Season 17 Conference Europe,FORZE,Overpass,16 - 14,W
+405,Endpoint,21/01/23,ESL Pro League Season 17 Conference Europe,FORZE,Ancient,13 - 16,L
+406,Endpoint,19/01/23,ESL Pro League Season 17 Conference Europe,9INE,Ancient,16 - 3,W
+407,Endpoint,19/01/23,ESL Pro League Season 17 Conference Europe,9INE,Vertigo,11 - 16,L
+408,Endpoint,19/01/23,ESL Pro League Season 17 Conference Europe,9INE,Overpass,16 - 14,W
+409,Endpoint,17/01/23,ESL Pro League Season 17 Conference Europe,SAW,Vertigo,13 - 16,L
+410,Endpoint,17/01/23,ESL Pro League Season 17 Conference Europe,SAW,Nuke,12 - 16,L
+411,Endpoint,17/01/23,ESL Pro League Season 17 Conference Europe,SAW,Inferno,16 - 14,W
